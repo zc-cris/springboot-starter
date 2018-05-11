@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cris-springboot-starter/cris-springboot-starter.iml" filepath="$PROJECT_DIR$/cris-springboot-starter/cris-springboot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cris-springboot-stater-autoconfigurer/cris-springboot-stater-autoconfigurer.iml" filepath="$PROJECT_DIR$/cris-springboot-stater-autoconfigurer/cris-springboot-stater-autoconfigurer.iml" />
+    </modules>
+  </component>
+</project>
